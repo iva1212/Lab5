@@ -1,0 +1,26 @@
+.list{
+    list-style-type: none;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 3px;
+    border-color: grey;
+    list-style-type: none;
+    width: 100%;
+    margin: 10px;
+    display:block;
+}
+.buttons{
+    display: inline;
+    margin: 10px;
+    
+
+}
+.list-text{
+    margin-left: 10px;
+    font-size: medium;
+    color: grey;
+}
+.check{
+    text-decoration: line-through;
+}
+
